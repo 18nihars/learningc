@@ -1,1 +1,7 @@
-This is me struggling to buy a top.
+#include <iostream>
+using namespace std;
+int main()
+{
+    count<<"Hello World";
+    return 0;
+}
